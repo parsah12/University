@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "University.Units.Protos";
+
+service CourseGrpc {
+    rpc Course (GetCourseRequests) returns (GetCourseResponse);
+}
+
+message GetCourseRequests {
+    int64 id = 1;
+    string coursename = 2; 
+    int32 capacity = 3;
+}
+
+message GetCourseResponse {
+    bool isSent = 1;
+    string message = 2; 
+    repeated datalist dataList = 3; 
+}
+
+message datalist {
+    string a = 1;
+
+
+}

@@ -1,0 +1,17 @@
+﻿using University.User.Application.Dto.Enum;
+
+namespace University.User.Application.Requests
+{
+    public class TeacherRequest
+    {
+        public string? UserName { get; set; }
+        public RoleEnumDto Role { get; set; }
+        public string? Password { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
+        public int Age { get; set; }
+        public string? MeliCode { get; set; }
+        public string? FieldOfStudy { get; set; }
+        public DateTime EntryDate { get; set; }
+    }
+}

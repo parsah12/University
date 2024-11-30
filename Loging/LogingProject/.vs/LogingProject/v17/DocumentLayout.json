@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University Project\\Loging\\LogingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C41C726-9319-4C69-9101-DD811DF99E09}|LogingProject\\Test\\UnitTest.csproj|d:\\university project\\loging\\logingproject\\logingproject\\test\\userunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C41C726-9319-4C69-9101-DD811DF99E09}|LogingProject\\Test\\UnitTest.csproj|solutionrelative:logingproject\\test\\userunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|d:\\university project\\loging\\logingproject\\logingproject\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|solutionrelative:logingproject\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|d:\\university project\\loging\\logingproject\\logingproject\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|solutionrelative:logingproject\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|d:\\university project\\loging\\logingproject\\logingproject\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|solutionrelative:logingproject\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|d:\\university project\\loging\\logingproject\\logingproject\\server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|solutionrelative:logingproject\\server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|d:\\university project\\loging\\logingproject\\logingproject\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|solutionrelative:logingproject\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|d:\\university project\\loging\\logingproject\\logingproject\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C45D4860-40F7-4BDB-9647-0150749FA3DC}|LogingProject\\Server\\server.csproj|solutionrelative:logingproject\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 523,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserUnitTest.cs",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Test\\UserUnitTest.cs",
+              "RelativeDocumentMoniker": "LogingProject\\Test\\UserUnitTest.cs",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Test\\UserUnitTest.cs",
+              "RelativeToolTip": "LogingProject\\Test\\UserUnitTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:37:45.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LogingProject\\Server\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LogingProject\\Server\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:27:19.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Startup.cs",
+              "RelativeDocumentMoniker": "LogingProject\\Server\\Startup.cs",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Startup.cs",
+              "RelativeToolTip": "LogingProject\\Server\\Startup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:09:44.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LogingProject\\Server\\appsettings.Development.json",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\appsettings.Development.json",
+              "RelativeToolTip": "LogingProject\\Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T11:09:46.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "LogingProject\\Server\\appsettings.json",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\appsettings.json",
+              "RelativeToolTip": "LogingProject\\Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T11:09:45.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "LogingProject\\Server\\Program.cs",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Program.cs",
+              "RelativeToolTip": "LogingProject\\Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:04:02.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LogingProject\\Server\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\University Project\\Loging\\LogingProject\\LogingProject\\Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LogingProject\\Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:50:05.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

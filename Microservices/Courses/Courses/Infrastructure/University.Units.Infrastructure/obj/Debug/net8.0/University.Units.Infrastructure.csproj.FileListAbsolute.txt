@@ -1,0 +1,15 @@
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Units.Infrastructure.deps.json
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Units.Infrastructure.dll
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Units.Infrastructure.pdb
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.AssemblyInfoInputs.cache
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.AssemblyInfo.cs
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.dll
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\refint\University.Units.Infrastructure.dll
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.pdb
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\ref\University.Units.Infrastructure.dll
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\Universtiy.Units.Model.dll
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\Universtiy.Units.Model.pdb
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Units.Infrastructure.csproj.AssemblyReference.cache
+D:\Microservices\UnitSelection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\Universi.0A01AFEC.Up2Date

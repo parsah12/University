@@ -1,0 +1,279 @@
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.csproj.AssemblyReference.cache
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.AssemblyInfoInputs.cache
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.AssemblyInfo.cs
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.csproj.CoreCompileInputs.cache
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.MvcApplicationPartsAssemblyInfo.cache
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\appsettings.Development.json
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\appsettings.json
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.exe
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.deps.json
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.runtimeconfig.json
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.pdb
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Azure.Core.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Azure.Identity.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Application.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\ApplicationService.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Infrastructure.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Model.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\ApplicationService.pdb
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Application.pdb
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Model.pdb
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Infrastructure.pdb
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.MvcApplicationPartsAssemblyInfo.cs
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets.build.json
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets.development.json
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.University.Units.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.build.University.Units.props
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.University.Units.props
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.University.Units.props
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\scopedcss\bundle\University.Units.styles.css
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\Universi.0C24C7F5.Up2Date
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.dll
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\refint\University.Units.dll
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.pdb
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.genruntimeconfig.cache
+D:\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\ref\University.Units.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\appsettings.Development.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\appsettings.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.exe
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.deps.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.runtimeconfig.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\University.Units.pdb
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Azure.Core.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Azure.Identity.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Google.Protobuf.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Memory.Data.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Application.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\ApplicationService.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Infrastructure.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Model.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\ApplicationService.pdb
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Application.pdb
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Model.pdb
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\bin\Debug\net8.0\Infrastructure.pdb
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.csproj.AssemblyReference.cache
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.AssemblyInfoInputs.cache
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.AssemblyInfo.cs
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.MvcApplicationPartsAssemblyInfo.cs
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.MvcApplicationPartsAssemblyInfo.cache
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets.build.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets.development.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.University.Units.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.build.University.Units.props
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.University.Units.props
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.University.Units.props
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\staticwebassets.pack.json
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\scopedcss\bundle\University.Units.styles.css
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\Universi.0C24C7F5.Up2Date
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\refint\University.Units.dll
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.pdb
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\University.Units.genruntimeconfig.cache
+D:\University Project\Loging\Microservices\Courses\Units\University.Units\obj\Debug\net8.0\ref\University.Units.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\appsettings.Development.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\appsettings.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\University.Units.exe
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\University.Units.deps.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\University.Units.runtimeconfig.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\University.Units.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\University.Units.pdb
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Azure.Core.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Azure.Identity.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Google.Protobuf.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Memory.Data.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Application.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\ApplicationService.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Infrastructure.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Model.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\ApplicationService.pdb
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Application.pdb
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Model.pdb
+D:\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Infrastructure.pdb
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.csproj.AssemblyReference.cache
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.AssemblyInfoInputs.cache
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.AssemblyInfo.cs
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.MvcApplicationPartsAssemblyInfo.cs
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.MvcApplicationPartsAssemblyInfo.cache
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets.build.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets.development.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.University.Units.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.build.University.Units.props
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.University.Units.props
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.University.Units.props
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\staticwebassets.pack.json
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\scopedcss\bundle\University.Units.styles.css
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\Universi.0C24C7F5.Up2Date
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\refint\University.Units.dll
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.pdb
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.genruntimeconfig.cache
+D:\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\ref\University.Units.dll

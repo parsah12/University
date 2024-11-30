@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22231D6A-6C82-4FB9-821A-972C3F027676}|ClientAPIGetwayController\\ClientAPIGetwayController.csproj|d:\\university project\\loging\\clientapigetwaycontroller\\clientapigetway\\clientapigetwaycontroller\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22231D6A-6C82-4FB9-821A-972C3F027676}|ClientAPIGetwayController\\ClientAPIGetwayController.csproj|solutionrelative:clientapigetwaycontroller\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22231D6A-6C82-4FB9-821A-972C3F027676}|ClientAPIGetwayController\\ClientAPIGetwayController.csproj|d:\\university project\\loging\\clientapigetwaycontroller\\clientapigetway\\clientapigetwaycontroller\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22231D6A-6C82-4FB9-821A-972C3F027676}|ClientAPIGetwayController\\ClientAPIGetwayController.csproj|solutionrelative:clientapigetwaycontroller\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22231D6A-6C82-4FB9-821A-972C3F027676}|ClientAPIGetwayController\\ClientAPIGetwayController.csproj|d:\\university project\\loging\\clientapigetwaycontroller\\clientapigetway\\clientapigetwaycontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22231D6A-6C82-4FB9-821A-972C3F027676}|ClientAPIGetwayController\\ClientAPIGetwayController.csproj|solutionrelative:clientapigetwaycontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\ocelot.json",
+              "RelativeDocumentMoniker": "ClientAPIGetwayController\\ocelot.json",
+              "ToolTip": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\ocelot.json",
+              "RelativeToolTip": "ClientAPIGetwayController\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T11:20:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClientAPIGetwayController\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClientAPIGetwayController\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T11:19:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientAPIGetwayController\\appsettings.json",
+              "ToolTip": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\appsettings.json",
+              "RelativeToolTip": "ClientAPIGetwayController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T11:19:43.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

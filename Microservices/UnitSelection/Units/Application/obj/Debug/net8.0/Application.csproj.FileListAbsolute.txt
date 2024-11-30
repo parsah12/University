@@ -1,0 +1,36 @@
+D:\Microservices\Courses\Units\Application\bin\Debug\net8.0\Application.deps.json
+D:\Microservices\Courses\Units\Application\bin\Debug\net8.0\Application.dll
+D:\Microservices\Courses\Units\Application\bin\Debug\net8.0\Application.pdb
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.dll
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.pdb
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\University Project\Loging\Microservices\Courses\Units\Application\bin\Debug\net8.0\Application.deps.json
+D:\University Project\Loging\Microservices\Courses\Units\Application\bin\Debug\net8.0\Application.dll
+D:\University Project\Loging\Microservices\Courses\Units\Application\bin\Debug\net8.0\Application.pdb
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.dll
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\refint\Application.dll
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\Application.pdb
+D:\University Project\Loging\Microservices\Courses\Units\Application\obj\Debug\net8.0\ref\Application.dll
+D:\University Project\Microservices\UnitSelection\Units\Application\bin\Debug\net8.0\Application.deps.json
+D:\University Project\Microservices\UnitSelection\Units\Application\bin\Debug\net8.0\Application.dll
+D:\University Project\Microservices\UnitSelection\Units\Application\bin\Debug\net8.0\Application.pdb
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.dll
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\refint\Application.dll
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.pdb
+D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\ref\Application.dll

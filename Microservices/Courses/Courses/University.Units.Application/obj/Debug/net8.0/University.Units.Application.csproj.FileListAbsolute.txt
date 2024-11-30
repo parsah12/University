@@ -1,0 +1,11 @@
+D:\Microservices\UnitSelection\Units\University.Units.Application\bin\Debug\net8.0\University.Units.Application.deps.json
+D:\Microservices\UnitSelection\Units\University.Units.Application\bin\Debug\net8.0\University.Units.Application.dll
+D:\Microservices\UnitSelection\Units\University.Units.Application\bin\Debug\net8.0\University.Units.Application.pdb
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\University.Units.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\University.Units.Application.AssemblyInfoInputs.cache
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\University.Units.Application.AssemblyInfo.cs
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\University.Units.Application.csproj.CoreCompileInputs.cache
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\University.Units.Application.dll
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\refint\University.Units.Application.dll
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\University.Units.Application.pdb
+D:\Microservices\UnitSelection\Units\University.Units.Application\obj\Debug\net8.0\ref\University.Units.Application.dll

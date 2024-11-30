@@ -1,0 +1,60 @@
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.deps.json
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.dll
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.pdb
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.AssemblyReference.cache
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfoInputs.cache
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfo.cs
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\Universi.80760DA3.Up2Date
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.dll
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\refint\University.Course.Infrastructure.dll
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.pdb
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\ref\University.Course.Infrastructure.dll
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.dll
+D:\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.deps.json
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.pdb
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.dll
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.AssemblyReference.cache
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfoInputs.cache
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfo.cs
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\Universi.80760DA3.Up2Date
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\refint\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.pdb
+D:\University Project\Microservices\Unitselection\Units\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\ref\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.deps.json
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.pdb
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.dll
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.AssemblyReference.cache
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfoInputs.cache
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfo.cs
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\Universi.80760DA3.Up2Date
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\refint\University.Course.Infrastructure.dll
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.pdb
+D:\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\ref\University.Course.Infrastructure.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.deps.json
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Infrastructure.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\bin\Debug\net8.0\University.Course.Model.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.AssemblyInfo.cs
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\Universi.80760DA3.Up2Date
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\refint\University.Course.Infrastructure.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\ref\University.Course.Infrastructure.dll

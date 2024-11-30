@@ -1,0 +1,12 @@
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\bin\Debug\net6.0\Project.Core.Application.deps.json
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\bin\Debug\net6.0\Project.Core.Application.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\bin\Debug\net6.0\Project.Core.Application.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Project.Core.Application.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\refint\Project.Core.Application.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Project.Core.Application.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\ref\Project.Core.Application.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\Application\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache

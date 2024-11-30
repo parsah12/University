@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University Project\\Microservices\\UnitSelection\\Units\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|d:\\university project\\microservices\\unitselection\\units\\university.units\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|d:\\university project\\microservices\\unitselection\\units\\university.units\\controllers\\unitselectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\controllers\\unitselectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B06666-2EE0-407F-B9BA-64B788473C8D}|ApplicationService\\ApplicationService.csproj|d:\\university project\\microservices\\unitselection\\units\\applicationservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B06666-2EE0-407F-B9BA-64B788473C8D}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0219E87-777C-41A2-A6E3-F3B5A84AF275}|Application\\Application.csproj|d:\\university project\\microservices\\unitselection\\units\\application\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0219E87-777C-41A2-A6E3-F3B5A84AF275}|Application\\Application.csproj|solutionrelative:application\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0219E87-777C-41A2-A6E3-F3B5A84AF275}|Application\\Application.csproj|d:\\university project\\microservices\\unitselection\\units\\application\\dto\\tokenvalidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0219E87-777C-41A2-A6E3-F3B5A84AF275}|Application\\Application.csproj|solutionrelative:application\\dto\\tokenvalidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|d:\\university project\\microservices\\unitselection\\units\\university.units\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|d:\\university project\\microservices\\unitselection\\units\\university.units\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|d:\\university project\\microservices\\unitselection\\units\\university.units\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|d:\\university project\\microservices\\unitselection\\units\\university.units\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Program.cs",
+              "RelativeDocumentMoniker": "University.Units\\Program.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Program.cs",
+              "RelativeToolTip": "University.Units\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:37:54.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "University.Units\\appsettings.Development.json",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\appsettings.Development.json",
+              "RelativeToolTip": "University.Units\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T08:32:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\appsettings.json",
+              "RelativeDocumentMoniker": "University.Units\\appsettings.json",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\appsettings.json",
+              "RelativeToolTip": "University.Units\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T08:32:13.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Startup.cs",
+              "RelativeDocumentMoniker": "University.Units\\Startup.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Startup.cs",
+              "RelativeToolTip": "University.Units\\Startup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:27:02.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "University.Units\\TokenValidationMiddleware.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "University.Units\\TokenValidationMiddleware.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAwwEoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:15:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenValidateDto.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\Application\\Dto\\TokenValidateDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\TokenValidateDto.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\Application\\Dto\\TokenValidateDto.cs",
+              "RelativeToolTip": "Application\\Dto\\TokenValidateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:13:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\Application\\IServices\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Application\\IServices\\ITokenService.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\Application\\IServices\\ITokenService.cs",
+              "RelativeToolTip": "Application\\IServices\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:11:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\ApplicationService\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\Services\\TokenService.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\ApplicationService\\Services\\TokenService.cs",
+              "RelativeToolTip": "ApplicationService\\Services\\TokenService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:07:41.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitSelectionController.cs",
+              "DocumentMoniker": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Controllers\\UnitSelectionController.cs",
+              "RelativeDocumentMoniker": "University.Units\\Controllers\\UnitSelectionController.cs",
+              "ToolTip": "D:\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Controllers\\UnitSelectionController.cs",
+              "RelativeToolTip": "University.Units\\Controllers\\UnitSelectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:12:37.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

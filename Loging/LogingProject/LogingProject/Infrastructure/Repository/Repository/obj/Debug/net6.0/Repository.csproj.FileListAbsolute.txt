@@ -1,0 +1,17 @@
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Infrastructure.Repository.deps.json
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Infrastructure.Repository.dll
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Infrastructure.Repository.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Core.Model.dll
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Core.Model.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Project.Infrastructure.Repository.dll
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\refint\Project.Infrastructure.Repository.dll
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\Project.Infrastructure.Repository.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\obj\Debug\net6.0\ref\Project.Infrastructure.Repository.dll
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Core.Application.dll
+D:\University Project\Loging\LogingProject\LogingProject\Infrastructure\Repository\Repository\bin\Debug\net6.0\Project.Core.Application.pdb

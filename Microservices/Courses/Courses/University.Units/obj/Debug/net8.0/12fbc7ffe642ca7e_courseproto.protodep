@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Courseproto.cs \
+obj\Debug\net8.0\Protos/CourseprotoGrpc.cs: Protos/courseproto.proto

@@ -1,0 +1,15 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "TokenOptions": {
+    "SecretKey": "TokenParsaUniversity",
+    "ExpiryDurationInMinutes": 60
+  },
+  "ConnectionStrings": {
+    "UniversityDatabase": "Server=.\\HEY;Database=University_Lessons;Persist Security Info=True;User ID=SA;Password=ASAXnet@2024Ph;MultipleActiveResultSets=True;"
+  }
+}

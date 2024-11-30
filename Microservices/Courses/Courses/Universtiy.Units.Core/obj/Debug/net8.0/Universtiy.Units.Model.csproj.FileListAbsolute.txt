@@ -1,0 +1,4 @@
+D:\Microservices\Unitselection\Units\Universtiy.Units.Core\obj\Debug\net8.0\Universtiy.Units.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Unitselection\Units\Universtiy.Units.Core\obj\Debug\net8.0\Universtiy.Units.Model.AssemblyInfoInputs.cache
+D:\Microservices\Unitselection\Units\Universtiy.Units.Core\obj\Debug\net8.0\Universtiy.Units.Model.AssemblyInfo.cs
+D:\Microservices\Unitselection\Units\Universtiy.Units.Core\obj\Debug\net8.0\Universtiy.Units.Model.csproj.CoreCompileInputs.cache

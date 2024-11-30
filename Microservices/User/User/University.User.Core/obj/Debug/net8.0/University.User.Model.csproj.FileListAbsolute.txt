@@ -1,0 +1,44 @@
+D:\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.deps.json
+D:\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.dll
+D:\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.pdb
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfoInputs.cache
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfo.cs
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.csproj.CoreCompileInputs.cache
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.dll
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\refint\University.User.Model.dll
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.pdb
+D:\Microservices\User\User\University.User.Core\obj\Debug\net8.0\ref\University.User.Model.dll
+D:\University Project\Loging\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.deps.json
+D:\University Project\Loging\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.dll
+D:\University Project\Loging\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.pdb
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfoInputs.cache
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfo.cs
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.dll
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\refint\University.User.Model.dll
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.pdb
+D:\University Project\Loging\Microservices\User\User\University.User.Core\obj\Debug\net8.0\ref\University.User.Model.dll
+D:\University Project\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.deps.json
+D:\University Project\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.dll
+D:\University Project\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.pdb
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfoInputs.cache
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfo.cs
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.dll
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\refint\University.User.Model.dll
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.pdb
+D:\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\ref\University.User.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.deps.json
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\bin\Debug\net8.0\University.User.Model.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfoInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.AssemblyInfo.cs
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.csproj.CoreCompileInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\refint\University.User.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\University.User.Model.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Core\obj\Debug\net8.0\ref\University.User.Model.dll

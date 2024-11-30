@@ -1,0 +1,48 @@
+D:\Microservices\Unitselection\Units\Model\bin\Debug\net8.0\University.Course.Model.deps.json
+D:\Microservices\Unitselection\Units\Model\bin\Debug\net8.0\University.Course.Model.dll
+D:\Microservices\Unitselection\Units\Model\bin\Debug\net8.0\University.Course.Model.pdb
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.csproj.AssemblyReference.cache
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfoInputs.cache
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfo.cs
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.csproj.CoreCompileInputs.cache
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.dll
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\refint\University.Course.Model.dll
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.pdb
+D:\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\ref\University.Course.Model.dll
+D:\University Project\Microservices\Unitselection\Units\Model\bin\Debug\net8.0\University.Course.Model.deps.json
+D:\University Project\Microservices\Unitselection\Units\Model\bin\Debug\net8.0\University.Course.Model.dll
+D:\University Project\Microservices\Unitselection\Units\Model\bin\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.csproj.AssemblyReference.cache
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfoInputs.cache
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfo.cs
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.dll
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\refint\University.Course.Model.dll
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Unitselection\Units\Model\obj\Debug\net8.0\ref\University.Course.Model.dll
+D:\University Project\Microservices\Courses\Courses\Model\bin\Debug\net8.0\University.Course.Model.deps.json
+D:\University Project\Microservices\Courses\Courses\Model\bin\Debug\net8.0\University.Course.Model.dll
+D:\University Project\Microservices\Courses\Courses\Model\bin\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.csproj.AssemblyReference.cache
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfoInputs.cache
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfo.cs
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.dll
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\refint\University.Course.Model.dll
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.pdb
+D:\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\ref\University.Course.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\bin\Debug\net8.0\University.Course.Model.deps.json
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\bin\Debug\net8.0\University.Course.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\bin\Debug\net8.0\University.Course.Model.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.csproj.AssemblyReference.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfoInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.AssemblyInfo.cs
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.csproj.CoreCompileInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\refint\University.Course.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\ref\University.Course.Model.dll

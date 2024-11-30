@@ -1,0 +1,396 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\University.Course.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Infrastructure\\University.Units.Infrastructure\\University.Course.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Infrastructure\\University.Units.Infrastructure\\University.Course.Infrastructure.csproj",
+        "projectName": "University.Course.Infrastructure",
+        "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Infrastructure\\University.Units.Infrastructure\\University.Course.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\pa.hedayati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Infrastructure\\University.Units.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pa.hedayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj",
+        "projectName": "University.Course.Model",
+        "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj",
+        "packagesPath": "C:\\Users\\pa.hedayati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pa.hedayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.ApplicationServices\\University.Course.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.ApplicationServices\\University.Course.ApplicationServices.csproj",
+        "projectName": "University.Course.ApplicationServices",
+        "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.ApplicationServices\\University.Course.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\pa.hedayati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pa.hedayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj"
+              },
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.66.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.67.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj",
+        "projectName": "University.Course.Application",
+        "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj",
+        "packagesPath": "C:\\Users\\pa.hedayati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pa.hedayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\University.Course.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\University.Course.csproj",
+        "projectName": "University.Course",
+        "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\University.Course.csproj",
+        "packagesPath": "C:\\Users\\pa.hedayati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pa.hedayati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Infrastructure\\University.Units.Infrastructure\\University.Course.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Infrastructure\\University.Units.Infrastructure\\University.Course.Infrastructure.csproj"
+              },
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\Model\\University.Course.Model.csproj"
+              },
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.ApplicationServices\\University.Course.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.ApplicationServices\\University.Course.ApplicationServices.csproj"
+              },
+              "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj": {
+                "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units.Application\\University.Course.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.66.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.67.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

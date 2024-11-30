@@ -1,0 +1,5 @@
+D:\University Project\Loging\LogingProject\Test\LogingProjectTest\obj\Debug\net8.0\LogingProjectTest.csproj.AssemblyReference.cache
+D:\University Project\Loging\LogingProject\Test\LogingProjectTest\obj\Debug\net8.0\LogingProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\LogingProject\Test\LogingProjectTest\obj\Debug\net8.0\LogingProjectTest.AssemblyInfoInputs.cache
+D:\University Project\Loging\LogingProject\Test\LogingProjectTest\obj\Debug\net8.0\LogingProjectTest.AssemblyInfo.cs
+D:\University Project\Loging\LogingProject\Test\LogingProjectTest\obj\Debug\net8.0\LogingProjectTest.csproj.CoreCompileInputs.cache

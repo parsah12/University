@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "University.Units.Protos";
+
+
+service UsersGrpc {
+	rpc Users (UserRequests) returns (UserResponse);
+}
+
+
+message UserRequests {
+	int64 id = 1 ;
+	string username = 2;
+	string firstname = 3 ; 
+	string lastname = 4 ;
+	int64 age = 5 ;
+}
+
+message UserResponse {
+	bool IsSent = 1;
+	string message = 2; 
+    repeated string dataList = 3; 
+}

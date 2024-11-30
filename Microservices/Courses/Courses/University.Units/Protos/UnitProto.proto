@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "University.Course.Protos";
+
+service UnitSelectionGrp {
+	rpc UnitSelection (UnitRequests) returns (UnitRespones);
+}
+
+message UnitRequests {
+	int64 userid = 1;
+	int64 teacherid = 2;
+	int64 courseid = 3;
+}
+
+message UnitRespones {
+	bool IsSent = 1;
+    string message = 2; 
+    repeated string dataList = 3;
+}

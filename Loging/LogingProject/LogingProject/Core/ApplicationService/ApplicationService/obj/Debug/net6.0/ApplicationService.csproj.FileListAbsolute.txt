@@ -1,0 +1,17 @@
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\ApplicationService.csproj.AssemblyReference.cache
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\ApplicationService.AssemblyInfoInputs.cache
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\ApplicationService.AssemblyInfo.cs
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\ApplicationService.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.ApplicationService.deps.json
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.ApplicationService.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.ApplicationService.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.Application.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.Model.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.Application.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\bin\Debug\net6.0\Project.Core.Model.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\Applicat.04A62F56.Up2Date
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\Project.Core.ApplicationService.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\refint\Project.Core.ApplicationService.dll
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\Project.Core.ApplicationService.pdb
+D:\University Project\Loging\LogingProject\LogingProject\Core\ApplicationService\ApplicationService\obj\Debug\net6.0\ref\Project.Core.ApplicationService.dll

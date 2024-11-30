@@ -1,0 +1,17 @@
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\University.Units.ApplicationServices.deps.json
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\University.Units.ApplicationServices.dll
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\University.Units.ApplicationServices.pdb
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.AssemblyInfoInputs.cache
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.AssemblyInfo.cs
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.dll
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\refint\University.Units.ApplicationServices.dll
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.pdb
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\ref\University.Units.ApplicationServices.dll
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\University.Units.Application.dll
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\University.Units.Application.pdb
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\University.Units.ApplicationServices.csproj.AssemblyReference.cache
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\obj\Debug\net8.0\Universi.65F96252.Up2Date
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\Universtiy.Units.Model.dll
+D:\Microservices\UnitSelection\Units\University.Units.ApplicationServices\bin\Debug\net8.0\Universtiy.Units.Model.pdb

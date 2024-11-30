@@ -1,0 +1,51 @@
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.AssemblyReference.cache
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfoInputs.cache
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfo.cs
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.CoreCompileInputs.cache
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.deps.json
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.pdb
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Application.dll
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Model.dll
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Application.pdb
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Model.pdb
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\Applicat.04A62F56.Up2Date
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.dll
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\refint\ApplicationService.dll
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.pdb
+D:\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ref\ApplicationService.dll
+D:\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.dll
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.deps.json
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.dll
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.pdb
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Application.dll
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Model.dll
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Application.pdb
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\bin\Debug\net8.0\Model.pdb
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.AssemblyReference.cache
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfoInputs.cache
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfo.cs
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.CoreCompileInputs.cache
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\Applicat.04A62F56.Up2Date
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.dll
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\refint\ApplicationService.dll
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.pdb
+D:\University Project\Loging\Microservices\Courses\Units\ApplicationService\obj\Debug\net8.0\ref\ApplicationService.dll
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.deps.json
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.dll
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\ApplicationService.pdb
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\Application.dll
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\Model.dll
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\Application.pdb
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\bin\Debug\net8.0\Model.pdb
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.AssemblyReference.cache
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfoInputs.cache
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.AssemblyInfo.cs
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.csproj.CoreCompileInputs.cache
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\Applicat.04A62F56.Up2Date
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.dll
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\refint\ApplicationService.dll
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ApplicationService.pdb
+D:\University Project\Microservices\UnitSelection\Units\ApplicationService\obj\Debug\net8.0\ref\ApplicationService.dll

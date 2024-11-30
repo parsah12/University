@@ -1,0 +1,45 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/University/Users/{url}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/University/Users/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Options" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 6061
+        }
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/University/UnitSelection/{url}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/University/UnitSelection/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Options" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4041
+        }
+      ]
+    },
+    {
+      "DownstreamPathTemplate": "/University/Courses/{url}",
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/University/Courses/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Options" ],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5050
+        }
+      ]
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:20111",
+    "Timeout": 10000
+  }
+}

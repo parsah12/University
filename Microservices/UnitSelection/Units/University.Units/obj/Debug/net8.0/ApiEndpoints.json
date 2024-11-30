@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "University.Units.Controllers.UnitSelectionController",
+    "Method": "UnitSelection",
+    "RelativePath": "University/UnitSelection/ChooseUnitSelection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Requests.UnitSelectionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
