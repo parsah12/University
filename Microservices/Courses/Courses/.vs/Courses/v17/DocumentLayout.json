@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\courses\\courses\\university.units\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|solutionrelative:university.units\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\courses\\courses\\university.units\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|solutionrelative:university.units\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\courses\\courses\\university.units\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|solutionrelative:university.units\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\courses\\courses\\university.units\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|solutionrelative:university.units\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\courses\\courses\\university.units\\obj\\debug\\net8.0\\protos\\tokenprotogrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|solutionrelative:university.units\\obj\\debug\\net8.0\\protos\\tokenprotogrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\courses\\courses\\university.units\\protos\\tokenproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1A54D730-70C4-4D89-8878-50C7803C554F}|University.Units\\University.Course.csproj|solutionrelative:university.units\\protos\\tokenproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 523,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Program.cs",
+              "RelativeDocumentMoniker": "University.Units\\Program.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Program.cs",
+              "RelativeToolTip": "University.Units\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:06:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Startup.cs",
+              "RelativeDocumentMoniker": "University.Units\\Startup.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Startup.cs",
+              "RelativeToolTip": "University.Units\\Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:06:23.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenProto.proto",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Protos\\TokenProto.proto",
+              "RelativeDocumentMoniker": "University.Units\\Protos\\TokenProto.proto",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Protos\\TokenProto.proto",
+              "RelativeToolTip": "University.Units\\Protos\\TokenProto.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-26T12:59:45.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenProtoGrpc.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\obj\\Debug\\net8.0\\Protos\\TokenProtoGrpc.cs",
+              "RelativeDocumentMoniker": "University.Units\\obj\\Debug\\net8.0\\Protos\\TokenProtoGrpc.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\obj\\Debug\\net8.0\\Protos\\TokenProtoGrpc.cs",
+              "RelativeToolTip": "University.Units\\obj\\Debug\\net8.0\\Protos\\TokenProtoGrpc.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAawGsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:57:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "University.Units\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "University.Units\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:00:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "University.Units\\TokenValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\Courses\\Courses\\University.Units\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "University.Units\\TokenValidationMiddleware.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:00:04.958Z",
+              "EditorCaption": ""
             }
           ]
         }
