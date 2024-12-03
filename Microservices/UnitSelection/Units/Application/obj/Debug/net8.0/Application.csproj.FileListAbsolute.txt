@@ -34,3 +34,16 @@ D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\ne
 D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\refint\Application.dll
 D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.pdb
 D:\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\bin\Debug\net8.0\Application.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\Application\obj\Debug\net8.0\ref\Application.dll
