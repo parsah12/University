@@ -11,11 +11,20 @@ public class UserService : IUserService
 {
     private readonly IUserRepository _userRepository;
     private readonly ITokenService _tokenService;
-    public UserService(IUserRepository userRepository, ITokenService tokenService)
+    private readonly IRedisService _redisService;
+    private IUserRepository @object;
+   
+    public IUserRepository Object { get; }
+    public object Value { get; }
+
+    public UserService(IUserRepository userRepository, ITokenService tokenService, IRedisService redisService)
     {
         _userRepository = userRepository;
         _tokenService = tokenService;
+        _redisService = redisService;
     }
+
+   
 
     public bool AddUser(UserRequest users)
     {
@@ -109,4 +118,33 @@ public class UserService : IUserService
         };
         return _userRepository.UnitSelection(entity);
     }
-}
+
+
+
+
+    public async Task CashUserNameAsynck(int userId, string userName)
+    {
+        string key = $"user :{userId} : name";
+        await _redisService.SetValueAsynck(key, userName);
+    }
+
+    public async Task<string> GetCashedUserNameAsynck(int userId)
+    {
+        string key = $"user : {userId}: name";
+        var res = await _redisService.GetValueAsynck(key);
+        return res;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}   

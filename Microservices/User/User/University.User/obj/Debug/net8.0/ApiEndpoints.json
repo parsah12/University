@@ -1,6 +1,27 @@
 [
   {
     "ContainingType": "University.User.Controllers.UserController",
+    "Method": "CasheUserName",
+    "RelativePath": "Cahse-UserName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "University.User.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "University/Users/AddUser",
     "HttpMethod": "POST",

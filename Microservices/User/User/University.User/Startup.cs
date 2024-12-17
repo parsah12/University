@@ -1,15 +1,14 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using University.User.Application.IServices;
 using University.User.ApplicationService.Services;
-using University.User.Grpc;
 using University.User.Infrastructure;
 using University.User.Infrastructure.Repository;
 using University.User.Model.IRepository;
 using University.User.Protos;
+using StackExchange.Redis;
 
 namespace University.User;
 
@@ -28,6 +27,19 @@ public class Startup
         services.AddGrpc();
         var connectionString = _configuration.GetConnectionString("UniversityDatabase");
 
+        //var redisConnetionString = _configuration.GetConnectionString("Redis");
+        //if (string.IsNullOrEmpty(redisConnetionString))
+        //{
+        //    throw new InvalidOperationException("Redis  Connetion String is not configed");
+        //}
+        //Console.WriteLine($"Redis Connetion String : {_configuration.GetConnectionString("Redis")}");
+        services.AddScoped<IConnectionMultiplexer>(sp =>
+        {
+            var configuration = ConfigurationOptions.Parse(_configuration.GetConnectionString("Redis"), true);
+            
+            configuration.AbortOnConnectFail = false; 
+            return ConnectionMultiplexer.Connect(configuration);
+        });
         services.AddDbContext<UniversityContext>(options =>
            options.UseSqlServer(_configuration.GetConnectionString("UniversityDatabase")));
         services.AddCors(op => op.AddPolicy(name: "MyPolicy",
@@ -97,6 +109,7 @@ public class Startup
         services.AddScoped<IUserRepository, UserRepository>();
         services.AddScoped<IUserService, UserService>();
         services.AddScoped<ITokenService, TokenService>();
+        services.AddScoped<IRedisService, RedisService>();
     }
 
     public void Configure(IApplicationBuilder builder)

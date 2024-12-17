@@ -17,10 +17,12 @@ public class BaseUnitTest
     private readonly Mock<IConfiguration> _configuration;
     private readonly Mock<ITeacherRepository> _teacherRepository;
     private readonly Mock<IAdminRepository> _adminRepository;
+    private readonly Mock<IRedisService> _redisService;
 
 
     public BaseUnitTest()
     {
+        _redisService = new Mock<IRedisService>();
         _unitSelectionEntities = new List<UnitSelectionEntity>();
         _userEntities = new List<UserEntity>();
         _teacherCourseEntities = new List<TeacherCourseEntity>();
@@ -59,7 +61,8 @@ public class BaseUnitTest
     {
         return new UserService(
             _userRepository.Object,
-            _tokenService.Object
+            _tokenService.Object,
+            _redisService.Object
             );
     }
     private void ConfigurationMockSetup()

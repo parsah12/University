@@ -4,6 +4,7 @@ using University.User.Application.Dto.Enum;
 using University.User.Model.IRepository;
 using University.User.Model.Entities;
 using University.User.ApplicationService.Services;
+using University.User.Application.IServices;
 
 namespace UnitTest;
 
@@ -11,14 +12,14 @@ public class UserUnitTest : BaseUnitTest
 {
 
     private readonly Mock<IUserRepository> _userRepositoryMock;
-
+    private readonly Mock<IRedisService> _redisService;
     private readonly UserService _userService;
 
     public UserUnitTest()
     {
         _userRepositoryMock = new Mock<IUserRepository>();
-        _userService = new UserService(_userRepositoryMock.Object, null!);
 
+        _userService = new UserService(_userRepositoryMock.Object, null!, _redisService!.Object);
     }
 
     [Fact]

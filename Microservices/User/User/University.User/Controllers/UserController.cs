@@ -52,6 +52,35 @@ namespace University.User.Controllers
         }
 
 
+        [HttpPost]
+        [Route("Cahse-UserName")]
+        public async Task<IActionResult> CasheUserName(int userId, string userName)
+        {
+            await _userService.CashUserNameAsynck(userId, userName);
+            return Ok("User Name was Chashe Successfully");
+        }
+
+
+
+
+
+
+
+        //[HttpGet]
+        //[Route("get-cashed-userName")]
+
+        //public async Task<string> GetCashedUserNameAsynckBy(int userId)
+        //{
+        //    var userName = await _userService.GetCashedUserNameAsynck(userId);
+        //    if (userName == null)
+
+        //    {
+        //        throw new NotImplementedException("User was not found");
+        //    }
+
+        //    return userName;
+        //}
+
 
     }
 }

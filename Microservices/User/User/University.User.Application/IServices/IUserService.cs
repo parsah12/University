@@ -10,4 +10,6 @@ public interface IUserService
     List<UserDto> GetAllUsers();
     UserDto? GetUserbyUserName(string userName);
     int UnitSelection(UnitSelectionRequest unitSelection);
+    Task CashUserNameAsynck(int userId, string userName);
+    Task<string> GetCashedUserNameAsynck(int userId);
 }

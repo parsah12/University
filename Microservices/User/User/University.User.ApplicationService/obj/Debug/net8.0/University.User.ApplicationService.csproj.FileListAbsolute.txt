@@ -66,3 +66,4 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\Univer
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.ApplicationService\obj\Debug\net8.0\refint\University.User.ApplicationService.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.ApplicationService\obj\Debug\net8.0\University.User.ApplicationService.pdb
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.ApplicationService\obj\Debug\net8.0\ref\University.User.ApplicationService.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.ApplicationService\obj\Debug\net8.0\University.User.ApplicationService.sourcelink.json

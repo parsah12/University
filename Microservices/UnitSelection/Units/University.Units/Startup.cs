@@ -5,8 +5,10 @@ using Infrastructure.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Model.IRepository;
+using StackExchange.Redis;
 using University.User.Grpc;
 
 namespace University.Units;
@@ -25,6 +27,13 @@ public class Startup
         services.AddControllers();
 
         var connectionString = _configuration.GetConnectionString("UniversityDatabase");
+
+        services.AddSingleton<IConnectionMultiplexer>(sp =>
+        {
+            var configuration = ConfigurationOptions.Parse(_configuration.GetConnectionString("Redis"), true);
+            configuration.AbortOnConnectFail = false; // Allow reconnection
+            return ConnectionMultiplexer.Connect(configuration);
+        });
 
         services.AddDbContext<UniversityContext>(options =>
             options.UseSqlServer(_configuration.GetConnectionString("UniversityDatabase")));

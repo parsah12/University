@@ -8,6 +8,7 @@ using University.Course.Infrastructure;
 using University.Course.Model.IRepository;
 using University.Course;
 using University.User.Grpc;
+using StackExchange.Redis;
 
 public class Startup
 {
@@ -22,7 +23,13 @@ public class Startup
     {
         services.AddControllers();
 
-        var connectionString = _configuration.GetConnectionString("UniversityDatabase");
+        services.AddSingleton<IConnectionMultiplexer>(sp =>
+        {
+            var configuration = ConfigurationOptions.Parse(_configuration.GetConnectionString("Redis"), true);
+            configuration.AbortOnConnectFail = false; 
+            return ConnectionMultiplexer.Connect(configuration);
+        });
+
 
         services.AddDbContext<UniversityContext>(options =>
             options.UseSqlServer(_configuration.GetConnectionString("UniversityDatabase")));

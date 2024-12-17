@@ -7,68 +7,44 @@
       "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|solutionrelative:university.user.applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\protos\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\protos\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\protos\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\protos\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C15C08C3-A4CE-4967-B14E-86706DD41531}|University.User.Test\\UnitTest\\UnitTest.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.test\\unittest\\baseunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15C08C3-A4CE-4967-B14E-86706DD41531}|University.User.Test\\UnitTest\\UnitTest.csproj|solutionrelative:university.user.test\\unittest\\baseunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\university.user.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\university.user.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\protos\\userproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\protos\\userproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15C08C3-A4CE-4967-B14E-86706DD41531}|University.User.Test\\UnitTest\\UnitTest.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.test\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C15C08C3-A4CE-4967-B14E-86706DD41531}|University.User.Test\\UnitTest\\UnitTest.csproj|solutionrelative:university.user.test\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\iservices\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\iservices\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.applicationservice\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|solutionrelative:university.user.applicationservice\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|solutionrelative:university.user.applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C05F13-7DB0-4929-84BC-9AF7CA0F7FD7}|University.User.Infrastructure\\University.User.Infrastructure.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C05F13-7DB0-4929-84BC-9AF7CA0F7FD7}|University.User.Infrastructure\\University.User.Infrastructure.csproj|solutionrelative:university.user.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.applicationservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|solutionrelative:university.user.applicationservice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\requests\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\requests\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\iservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user\\protos\\tokenproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{BE2B70F7-2256-4E55-92FB-3FB0B04321CC}|University.User\\University.User.csproj|solutionrelative:university.user\\protos\\tokenproto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\dto\\tokenvalidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\dto\\tokenvalidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.applicationservice\\university.user.applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{25BEC57F-9857-4903-B337-1FE59F514215}|University.User.ApplicationService\\University.User.ApplicationService.csproj|solutionrelative:university.user.applicationservice\\university.user.applicationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\user\\user\\university.user.application\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121C270D-0C35-4482-8F56-40B2F7813289}|University.User.Application\\University.User.Application.csproj|solutionrelative:university.user.application\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,8 +54,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 523,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "University.User",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
+              "RelativeDocumentMoniker": "University.User\\University.User.csproj",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
+              "RelativeToolTip": "University.User\\University.User.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T13:05:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Test\\UnitTest\\BaseUnitTest.cs",
+              "RelativeDocumentMoniker": "University.User.Test\\UnitTest\\BaseUnitTest.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Test\\UnitTest\\BaseUnitTest.cs",
+              "RelativeToolTip": "University.User.Test\\UnitTest\\BaseUnitTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:56:32.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Test\\UnitTest\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "University.User.Test\\UnitTest\\UnitTest.csproj",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Test\\UnitTest\\UnitTest.csproj",
+              "RelativeToolTip": "University.User.Test\\UnitTest\\UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T12:55:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "University.User.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "University.User.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:39:28.022Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -94,208 +122,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserProto.proto",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\UserProto.proto",
-              "RelativeDocumentMoniker": "University.User\\Protos\\UserProto.proto",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\UserProto.proto",
-              "RelativeToolTip": "University.User\\Protos\\UserProto.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-11-24T09:42:23.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "University.User.csproj",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
-              "RelativeDocumentMoniker": "University.User\\University.User.csproj",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
-              "RelativeToolTip": "University.User\\University.User.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T08:43:10.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "University.User.ApplicationService\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\UserService.cs",
-              "RelativeToolTip": "University.User.ApplicationService\\Services\\UserService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAwwCcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:38:07.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\UsersService.cs",
-              "RelativeDocumentMoniker": "University.User\\Protos\\UsersService.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\UsersService.cs",
-              "RelativeToolTip": "University.User\\Protos\\UsersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:18:37.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "University.User.ApplicationService\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\TokenService.cs",
-              "RelativeToolTip": "University.User.ApplicationService\\Services\\TokenService.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAkwHIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:35:03.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "University.User.Application\\Dto\\UserDto.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Dto\\UserDto.cs",
-              "RelativeToolTip": "University.User.Application\\Dto\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T07:27:57.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TokenProto.proto",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\TokenProto.proto",
-              "RelativeDocumentMoniker": "University.User\\Protos\\TokenProto.proto",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\TokenProto.proto",
-              "RelativeToolTip": "University.User\\Protos\\TokenProto.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-11-20T11:27:21.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenServices.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\TokenServices.cs",
-              "RelativeDocumentMoniker": "University.User\\Protos\\TokenServices.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Protos\\TokenServices.cs",
-              "RelativeToolTip": "University.User\\Protos\\TokenServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:27:14.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Program.cs",
-              "RelativeDocumentMoniker": "University.User\\Program.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Program.cs",
-              "RelativeToolTip": "University.User\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:22:56.02Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "University.User\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Controllers\\UserController.cs",
               "RelativeToolTip": "University.User\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:44:35.25Z",
+              "WhenOpened": "2024-12-17T08:44:07.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Startup.cs",
-              "RelativeDocumentMoniker": "University.User\\Startup.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Startup.cs",
-              "RelativeToolTip": "University.User\\Startup.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAowHIAAAArAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "University.User.Application\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\IServices\\IUserService.cs",
+              "RelativeToolTip": "University.User.Application\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:36:52.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Requests\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "University.User.Application\\Requests\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Requests\\LoginRequestDto.cs",
-              "RelativeToolTip": "University.User.Application\\Requests\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:16:58.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "University.User.ApplicationService.csproj",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\University.User.ApplicationService.csproj",
-              "RelativeDocumentMoniker": "University.User.ApplicationService\\University.User.ApplicationService.csproj",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\University.User.ApplicationService.csproj",
-              "RelativeToolTip": "University.User.ApplicationService\\University.User.ApplicationService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T06:26:17.625Z"
+              "WhenOpened": "2024-12-17T08:33:21.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "University.User.ApplicationService\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\UserService.cs",
+              "RelativeToolTip": "University.User.ApplicationService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:10:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\IServices\\IRedisService.cs",
+              "RelativeDocumentMoniker": "University.User.Application\\IServices\\IRedisService.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\IServices\\IRedisService.cs",
+              "RelativeToolTip": "University.User.Application\\IServices\\IRedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:10:10.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "University.User.ApplicationService\\Services\\RedisService.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.ApplicationService\\Services\\RedisService.cs",
+              "RelativeToolTip": "University.User.ApplicationService\\Services\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:09:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\appsettings.Development.json",
               "RelativeDocumentMoniker": "University.User\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\appsettings.Development.json",
               "RelativeToolTip": "University.User\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T07:09:51.163Z"
+              "WhenOpened": "2024-12-17T08:03:58.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\IServices\\ITokenService.cs",
-              "RelativeDocumentMoniker": "University.User.Application\\IServices\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\IServices\\ITokenService.cs",
-              "RelativeToolTip": "University.User.Application\\IServices\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Startup.cs",
+              "RelativeDocumentMoniker": "University.User\\Startup.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Startup.cs",
+              "RelativeToolTip": "University.User\\Startup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T06:35:12.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TokenValidateDto.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Dto\\TokenValidateDto.cs",
-              "RelativeDocumentMoniker": "University.User.Application\\Dto\\TokenValidateDto.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Dto\\TokenValidateDto.cs",
-              "RelativeToolTip": "University.User.Application\\Dto\\TokenValidateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:00:46.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Dto\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "University.User.Application\\Dto\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Application\\Dto\\LoginResponseDto.cs",
-              "RelativeToolTip": "University.User.Application\\Dto\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:37:08.271Z"
+              "WhenOpened": "2024-12-17T08:03:55.79Z",
+              "EditorCaption": ""
             }
           ]
         }

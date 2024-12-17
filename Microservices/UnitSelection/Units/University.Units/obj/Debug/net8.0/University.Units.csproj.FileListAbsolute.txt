@@ -371,3 +371,5 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Un
 C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.pdb
 C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\University.Units.genruntimeconfig.cache
 C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units\obj\Debug\net8.0\ref\University.Units.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units\bin\Debug\net8.0\StackExchange.Redis.dll

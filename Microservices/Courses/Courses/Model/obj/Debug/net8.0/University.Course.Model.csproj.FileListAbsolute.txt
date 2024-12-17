@@ -46,3 +46,4 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\refint\University.Course.Model.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.pdb
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\ref\University.Course.Model.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Model\obj\Debug\net8.0\University.Course.Model.sourcelink.json

@@ -42,3 +42,5 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\Univer
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Application\obj\Debug\net8.0\refint\University.User.Application.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Application\obj\Debug\net8.0\University.User.Application.pdb
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Application\obj\Debug\net8.0\ref\University.User.Application.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Application\obj\Debug\net8.0\University.User.Application.csproj.AssemblyReference.cache
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Application\obj\Debug\net8.0\University.User.Application.sourcelink.json

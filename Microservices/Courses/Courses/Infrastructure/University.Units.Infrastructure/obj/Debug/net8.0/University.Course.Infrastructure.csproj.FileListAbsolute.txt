@@ -58,3 +58,4 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\refint\University.Course.Infrastructure.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.pdb
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\ref\University.Course.Infrastructure.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\Infrastructure\University.Units.Infrastructure\obj\Debug\net8.0\University.Course.Infrastructure.sourcelink.json

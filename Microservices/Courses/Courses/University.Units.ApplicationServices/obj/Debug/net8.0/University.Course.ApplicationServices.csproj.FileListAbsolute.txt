@@ -66,3 +66,4 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\University.Units.ApplicationServices\obj\Debug\net8.0\refint\University.Course.ApplicationServices.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\University.Units.ApplicationServices\obj\Debug\net8.0\University.Course.ApplicationServices.pdb
 C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\University.Units.ApplicationServices\obj\Debug\net8.0\ref\University.Course.ApplicationServices.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\University.Units.ApplicationServices\obj\Debug\net8.0\University.Course.ApplicationServices.sourcelink.json
