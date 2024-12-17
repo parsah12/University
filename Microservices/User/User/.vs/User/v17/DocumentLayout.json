@@ -71,15 +71,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "University.User",
+              "Title": "University.User.csproj",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
               "RelativeDocumentMoniker": "University.User\\University.User.csproj",
               "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
               "RelativeToolTip": "University.User\\University.User.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-17T13:05:41.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T13:05:41.778Z"
             },
             {
               "$type": "Document",
@@ -91,21 +90,19 @@
               "RelativeToolTip": "University.User.Test\\UnitTest\\BaseUnitTest.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAmwFQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:56:32.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T12:56:32.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UnitTest",
+              "Title": "UnitTest.csproj",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Test\\UnitTest\\UnitTest.csproj",
               "RelativeDocumentMoniker": "University.User.Test\\UnitTest\\UnitTest.csproj",
               "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User.Test\\UnitTest\\UnitTest.csproj",
               "RelativeToolTip": "University.User.Test\\UnitTest\\UnitTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-17T12:55:23.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T12:55:23.004Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "University.User.Infrastructure\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T12:39:28.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T12:39:28.022Z"
             },
             {
               "$type": "Document",
@@ -128,7 +124,7 @@
               "RelativeDocumentMoniker": "University.User\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\Controllers\\UserController.cs",
               "RelativeToolTip": "University.User\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAmwDwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T08:44:07.028Z",
               "EditorCaption": ""
@@ -143,8 +139,7 @@
               "RelativeToolTip": "University.User.Application\\IServices\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:33:21.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:33:21.279Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "University.User.ApplicationService\\Services\\UserService.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAcwIAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:10:52.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:10:52.149Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "University.User.Application\\IServices\\IRedisService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:10:10.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:10:10.613Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "University.User.ApplicationService\\Services\\RedisService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:09:10.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:09:10.819Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "University.User\\appsettings.Development.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-17T08:03:58.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:03:58.06Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "University.User\\Startup.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:03:55.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T08:03:55.79Z"
             }
           ]
         }
