@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "University.User.Controllers.UserController",
-    "Method": "CasheUserName",
+    "Method": "CacheUserName",
     "RelativePath": "Cahse-UserName",
     "HttpMethod": "POST",
     "IsController": true,
@@ -18,7 +18,43 @@
         "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "University.User.Controllers.UserController",
+    "Method": "GetCachedUserName",
+    "RelativePath": "get-cashed-userName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "University.User.Controllers.UserController",

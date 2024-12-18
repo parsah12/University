@@ -3,7 +3,7 @@ using University.Units;
 
 
 
-var app = Host.CreateDefaultBuilder()
+ var app = Host.CreateDefaultBuilder()
     .ConfigureWebHostDefaults(builder =>
     {
         builder.ConfigureKestrel(options =>

@@ -8,11 +8,13 @@ namespace University.Course.ApplicationServices.Services;
 public class CourseService : ICourseService
 {
     private readonly ICourseRepository _courseRepository;
+    private readonly IRedisService _redisService;
 
 
-    public CourseService(ICourseRepository courseRepository)
+    public CourseService(ICourseRepository courseRepository, IRedisService redisService)
     {
         _courseRepository = courseRepository;
+        _redisService = redisService;
     }
 
     public List<CourseDto>? GetAllCourses()
@@ -50,8 +52,17 @@ public class CourseService : ICourseService
         return _courseRepository.AddCourse(entity);
     }
 
-    //public void GetGrpcService()
-    //{
+    public async Task CacheCourseAsync(int courseId, string courseName)
+    {
+        string key = $"course:{courseId}:name";
+        await _redisService.SetValueAsync(key, courseName);
+    }
 
-    //}
+    public async Task<string> GetCacheCourseAsync(string courseId)
+    {
+        string key = courseId;
+        return await _redisService.GetValueAsync(key);
+    }
+
+
 }

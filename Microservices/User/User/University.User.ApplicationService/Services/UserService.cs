@@ -12,10 +12,7 @@ public class UserService : IUserService
     private readonly IUserRepository _userRepository;
     private readonly ITokenService _tokenService;
     private readonly IRedisService _redisService;
-    private IUserRepository @object;
-   
-    public IUserRepository Object { get; }
-    public object Value { get; }
+
 
     public UserService(IUserRepository userRepository, ITokenService tokenService, IRedisService redisService)
     {
@@ -23,8 +20,6 @@ public class UserService : IUserService
         _tokenService = tokenService;
         _redisService = redisService;
     }
-
-   
 
     public bool AddUser(UserRequest users)
     {
@@ -44,11 +39,9 @@ public class UserService : IUserService
                 UserName = users.UserName
             };
             return _userRepository.AddUser(entity);
-        }  
+        }
         return false;
     }
-
-
 
     public List<UserDto> GetAllUsers()
     {
@@ -94,7 +87,7 @@ public class UserService : IUserService
 
         bool isPasswordValid = BCrypt.Net.BCrypt.EnhancedVerify(loginRequest.Password, user.Password);
         if (!isPasswordValid) throw new Exception("Incorrect Pass");
-        var userDto = new UserDto { Age = user.Age , FirstName = user.FirstName , LastName = user.LastName ,FieldOfStudy = user.FieldOfStudy ,UserName = user.UserName , Id = user.Id , Role = (RoleEnumDto)user.Role , MeliCode = user.MeliCode};
+        var userDto = new UserDto { Age = user.Age, FirstName = user.FirstName, LastName = user.LastName, FieldOfStudy = user.FieldOfStudy, UserName = user.UserName, Id = user.Id, Role = (RoleEnumDto)user.Role, MeliCode = user.MeliCode };
         var token = await _tokenService.GenerateToken(userDto);
 
         return new LoginResponseDto
@@ -119,32 +112,17 @@ public class UserService : IUserService
         return _userRepository.UnitSelection(entity);
     }
 
-
-
-
-    public async Task CashUserNameAsynck(int userId, string userName)
+    public async Task CacheUserNameAsync(int userId, string userName, TimeSpan cacheDuration)
     {
-        string key = $"user :{userId} : name";
-        await _redisService.SetValueAsynck(key, userName);
+        string key = $"user:{userId}:name";
+        await _redisService.SetValueAsync(key, userName, cacheDuration);
     }
 
-    public async Task<string> GetCashedUserNameAsynck(int userId)
+    public async Task<string> GetCachedUserNameAsync(string userId)
     {
-        string key = $"user : {userId}: name";
-        var res = await _redisService.GetValueAsynck(key);
-        return res;
+        string key = userId;
+        return await _redisService.GetValueAsync(key);
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-}   
+}

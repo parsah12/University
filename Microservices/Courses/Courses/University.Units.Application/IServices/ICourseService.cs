@@ -8,6 +8,8 @@ namespace University.Course.Application.IServices
         List<CourseDto>? GetAllCourses();
         CourseDto? GetCourseBy(string courseName);
         bool AddCourse(CourseRequests course);
+        Task CacheCourseAsync(int courseId ,string courseName);
+        Task<string> GetCacheCourseAsync(string courseId);
 
     }
 }

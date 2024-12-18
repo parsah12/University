@@ -41,7 +41,40 @@ public class CourseController : ControllerBase
         _courseService.AddCourse(course);
     }
 
-   
+    [HttpGet]
+    [Route("get-cache-coursename")]
+    public async Task<string> GetCachedUserName(string courseId)
+    {
+        var key = await _courseService.GetCacheCourseAsync(courseId);
+        return key ?? "Course not found in cache.";
+    }
+
+
+    [HttpPost]
+    [Route("cache-courseName")]
+    public async Task<string> CacheCourse(int courseId, string courseName)
+    {
+        await _courseService.CacheCourseAsync(courseId,courseName);
+        return "Cource Name Was Cache Successfully";
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     //[HttpPost]
     //[Route("University/Courses/UnitProto")]
     //public async Task TestUnitProto()

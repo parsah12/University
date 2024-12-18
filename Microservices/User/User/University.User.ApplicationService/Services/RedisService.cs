@@ -15,17 +15,18 @@ public class RedisService : IRedisService
 
 
 
-    public async Task<string> GetValueAsynck(string key)
-    {
-        var redisDB = _redis.GetDatabase();
-        var value = await redisDB.StringGetAsync(key);
-        return value.ToString();
-    }
-
-    public async Task SetValueAsynck(string key , string value)
+    public async Task<string> GetValueAsync(string key)
     {
         var db = _redis.GetDatabase();
-        await db.StringSetAsync(key, value);
+        var value = $"user:{key}:name";
+        var res = await db.StringGetAsync(value);
+        return res.ToString();
+    }
+
+    public async Task SetValueAsync(string key , string value ,TimeSpan? expiry = null)
+    {
+        var db = _redis.GetDatabase();
+        await db.StringSetAsync(key, value ,expiry);
     }
 
 

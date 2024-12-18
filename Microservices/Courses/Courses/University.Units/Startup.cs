@@ -67,6 +67,7 @@ public class Startup
         services.AddScoped<ICourseRepository, CourseRepository>();
         services.AddScoped<ICourseService, CourseService>();
         services.AddScoped<ITokenService , TokenService>();
+        services.AddScoped<IRedisService , RedisService>();
         services.AddGrpc();
     }
 

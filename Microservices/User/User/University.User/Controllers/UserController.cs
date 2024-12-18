@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using University.User.Application.Dto;
 using University.User.Application.IServices;
 using University.User.Application.Requests;
-using University.User.Model.IRepository;
 
 namespace University.User.Controllers
 {
@@ -13,7 +12,7 @@ namespace University.User.Controllers
 
         private readonly IUserService _userService;
         
-        public UserController(IUserRepository userRepository, IUserService userService)
+        public UserController(IUserService userService)
         {
             _userService = userService;
         }
@@ -54,32 +53,27 @@ namespace University.User.Controllers
 
         [HttpPost]
         [Route("Cahse-UserName")]
-        public async Task<IActionResult> CasheUserName(int userId, string userName)
+        public async Task<string> CacheUserName(int userId, string userName)
         {
-            await _userService.CashUserNameAsynck(userId, userName);
-            return Ok("User Name was Chashe Successfully");
+            TimeSpan cacheDuriation = TimeSpan.FromMinutes(10);
+            await _userService.CacheUserNameAsync(userId, userName,cacheDuriation );
+            return "User name cached successfully.";
+        }
+
+
+
+        [HttpGet]
+        [Route("get-cashed-userName")]
+
+        public async Task<string> GetCachedUserName(string userId)
+        {
+            var key = await _userService.GetCachedUserNameAsync(userId);
+            return key ?? "User not found in cache.";
         }
 
 
 
 
-
-
-
-        //[HttpGet]
-        //[Route("get-cashed-userName")]
-
-        //public async Task<string> GetCashedUserNameAsynckBy(int userId)
-        //{
-        //    var userName = await _userService.GetCashedUserNameAsynck(userId);
-        //    if (userName == null)
-
-        //    {
-        //        throw new NotImplementedException("User was not found");
-        //    }
-
-        //    return userName;
-        //}
 
 
     }

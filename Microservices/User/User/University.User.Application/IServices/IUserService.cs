@@ -10,6 +10,6 @@ public interface IUserService
     List<UserDto> GetAllUsers();
     UserDto? GetUserbyUserName(string userName);
     int UnitSelection(UnitSelectionRequest unitSelection);
-    Task CashUserNameAsynck(int userId, string userName);
-    Task<string> GetCashedUserNameAsynck(int userId);
+    Task CacheUserNameAsync(int userId, string userName , TimeSpan cacheDuration);
+    Task<string> GetCachedUserNameAsync(string userId);
 }
