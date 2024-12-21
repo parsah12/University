@@ -381,3 +381,7 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\Univer
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\Serilog.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User\bin\Debug\net8.0\Serilog.Sinks.File.dll

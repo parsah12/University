@@ -8,7 +8,7 @@ namespace University.Course.Application.IServices
         List<CourseDto>? GetAllCourses();
         CourseDto? GetCourseBy(string courseName);
         bool AddCourse(CourseRequests course);
-        Task CacheCourseAsync(int courseId ,string courseName);
+        Task CacheCourseAsync(int courseId ,string courseName , TimeSpan cacheDuration);
         Task<string> GetCacheCourseAsync(string courseId);
 
     }

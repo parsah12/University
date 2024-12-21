@@ -4,6 +4,6 @@
     {
         Task<string> GetValueAsync(string key);
 
-        Task SetValueAsync(string key, string value);
+        Task SetValueAsync(string key, string value , TimeSpan? expiry = null);
     }
 }

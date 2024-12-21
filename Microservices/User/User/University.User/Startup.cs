@@ -9,6 +9,7 @@ using University.User.Infrastructure.Repository;
 using University.User.Model.IRepository;
 using University.User.Protos;
 using StackExchange.Redis;
+using Serilog;
 
 namespace University.User;
 
@@ -26,13 +27,16 @@ public class Startup
         services.AddControllers();
         services.AddGrpc();
         var connectionString = _configuration.GetConnectionString("UniversityDatabase");
+        services.AddLogging(builder =>
+        {
+            Log.Logger = new LoggerConfiguration()
+                .WriteTo.Console()  
+                .WriteTo.File("Logs/myapp-.txt", rollingInterval: RollingInterval.Day)  
+                .CreateLogger();
 
-        //var redisConnetionString = _configuration.GetConnectionString("Redis");
-        //if (string.IsNullOrEmpty(redisConnetionString))
-        //{
-        //    throw new InvalidOperationException("Redis  Connetion String is not configed");
-        //}
-        //Console.WriteLine($"Redis Connetion String : {_configuration.GetConnectionString("Redis")}");
+            builder.AddSerilog();  
+        });
+
         services.AddScoped<IConnectionMultiplexer>(sp =>
         {
             var configuration = ConfigurationOptions.Parse(_configuration.GetConnectionString("Redis"), true);
@@ -117,7 +121,6 @@ public class Startup
         builder.UseCors("MyPolicy");
         builder.UseSwagger();
         builder.UseSwaggerUI();
-       
         builder.UseRouting();
         builder.UseAuthentication(); 
         builder.UseAuthorization(); 

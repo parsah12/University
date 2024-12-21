@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientAPIGetwayController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88cc163657246e59a39b5e7eef9f11dbe2006021")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd37fa32cf35680798188b27c9b7944586967b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientAPIGetwayController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientAPIGetwayController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

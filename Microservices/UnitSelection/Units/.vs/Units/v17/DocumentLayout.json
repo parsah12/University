@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\unitselection\\units\\university.units\\controllers\\unitselectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\controllers\\unitselectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\unitselection\\units\\university.units\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AA35E63-93E8-4C59-9167-EDD050523900}|University.Units\\University.Units.csproj|solutionrelative:university.units\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0219E87-777C-41A2-A6E3-F3B5A84AF275}|Application\\Application.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\unitselection\\units\\application\\dto\\enum\\roleenumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0219E87-777C-41A2-A6E3-F3B5A84AF275}|Application\\Application.csproj|solutionrelative:application\\dto\\enum\\roleenumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6B06666-2EE0-407F-B9BA-64B788473C8D}|ApplicationService\\ApplicationService.csproj|c:\\users\\pa.hedayati\\documents\\university project\\microservices\\unitselection\\units\\applicationservice\\services\\unitselectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "RoleEnumDto.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\Application\\Dto\\Enum\\RoleEnumDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\Enum\\RoleEnumDto.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\Application\\Dto\\Enum\\RoleEnumDto.cs",
+              "RelativeToolTip": "Application\\Dto\\Enum\\RoleEnumDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:59:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitSelectionController.cs",
+              "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Controllers\\UnitSelectionController.cs",
+              "RelativeDocumentMoniker": "University.Units\\Controllers\\UnitSelectionController.cs",
+              "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Controllers\\UnitSelectionController.cs",
+              "RelativeToolTip": "University.Units\\Controllers\\UnitSelectionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:50:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitSelectionService.cs",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\ApplicationService\\Services\\UnitSelectionService.cs",
               "RelativeDocumentMoniker": "ApplicationService\\Services\\UnitSelectionService.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\appsettings.Development.json",
               "RelativeDocumentMoniker": "University.Units\\appsettings.Development.json",
@@ -64,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Startup.cs",
               "RelativeDocumentMoniker": "University.Units\\Startup.cs",
               "ToolTip": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\UnitSelection\\Units\\University.Units\\Startup.cs",
               "RelativeToolTip": "University.Units\\Startup.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAlwEQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T08:01:34.835Z",
               "EditorCaption": ""

@@ -3,12 +3,10 @@ using ApplicationService.Services;
 using Infrastructure;
 using Infrastructure.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Model.IRepository;
-using StackExchange.Redis;
+using Serilog;
 using University.User.Grpc;
 
 namespace University.Units;
@@ -39,6 +37,22 @@ public class Startup
                 policy.AllowAnyOrigin();
                 policy.AllowAnyMethod();
             }));
+        services.AddLogging(builder =>
+        {
+            Log.Logger = new LoggerConfiguration()
+                .WriteTo.Console()
+                .WriteTo.File("Logs/myapp-.txt", rollingInterval: RollingInterval.Day)
+                .CreateLogger();
+            builder.AddSerilog();
+        });
+        services.AddAuthorization(options =>
+        {
+            options.AddPolicy("Student", policy => policy.RequireRole("Student"));
+        });
+        //services.AddAuthorization(options =>
+        //{
+        //    options.AddPolicy("Admin", policy => policy.RequireRole("Admin"));
+        //});
 
         services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(options =>

@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\ClientAPIGetwayController.csproj",
+      "projectUniqueName": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\ClientAPIGetwayController.csproj",
       "projectName": "ClientAPIGetwayController",
-      "projectPath": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\ClientAPIGetwayController.csproj",
+      "projectPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\ClientAPIGetwayController.csproj",
       "packagesPath": "C:\\Users\\pa.hedayati\\.nuget\\packages\\",
-      "outputPath": "D:\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\obj\\",
+      "outputPath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Loging\\ClientAPIGetwayController\\ClientAPIGetway\\ClientAPIGetwayController\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pa.hedayati\\AppData\\Roaming\\NuGet\\NuGet.Config",

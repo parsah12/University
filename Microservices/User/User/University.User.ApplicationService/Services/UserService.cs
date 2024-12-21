@@ -114,8 +114,15 @@ public class UserService : IUserService
 
     public async Task CacheUserNameAsync(int userId, string userName, TimeSpan cacheDuration)
     {
-        string key = $"user:{userId}:name";
-        await _redisService.SetValueAsync(key, userName, cacheDuration);
+        var users = GetAllUsers();
+      
+
+        foreach (var user in users)
+        {
+            string key = $"user:{user.Id}:name";
+            var value = user.UserName;
+            await _redisService.SetValueAsync(key, value, cacheDuration);
+        }
     }
 
     public async Task<string> GetCachedUserNameAsync(string userId)

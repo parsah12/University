@@ -367,3 +367,5 @@ C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\Univer
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Test\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Test\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Test\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Test\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pa.hedayati\Documents\University Project\Microservices\User\User\University.User.Test\UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll

@@ -1,28 +1,29 @@
-﻿using Grpc.Net.Client;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using University.Course.Application.Dto;
 using University.Course.Application.IServices;
 using University.Course.Application.Requests;
-using University.Course.Protos;
-using University.Units.Protos;
 
 
 namespace University.Course.Controllers;
-[Authorize]
+[Authorize(Roles ="Admin")] // only admin access to this service
 public class CourseController : ControllerBase
 {
     private readonly ICourseService _courseService;
+    private readonly ILogger<CourseController> _logger;
 
-    public CourseController(ICourseService courseService)
+    //create constractur
+    public CourseController(ICourseService courseService , ILogger<CourseController> logger)
     {
         _courseService = courseService;
+        _logger = logger;
     }
 
     [HttpGet]
     [Route("University/Courses/GetAllCourse")]
     public List<CourseDto>? GetAllCourses()
     {
+        _logger.LogInformation("Reading All Courses information");
         return _courseService.GetAllCourses();
     }
 
@@ -30,6 +31,7 @@ public class CourseController : ControllerBase
     [Route("University/Courses/GetCourse")]
     public CourseDto? GetCourseBy(string courseName)
     {
+        _logger.LogInformation("Get Course information by courseName");
         return _courseService.GetCourseBy(courseName);
     }
 
@@ -38,6 +40,7 @@ public class CourseController : ControllerBase
 
     public void AddCourse([FromBody] CourseRequests course)
     {
+        _logger.LogInformation("Add new course information by admin");
         _courseService.AddCourse(course);
     }
 
@@ -45,6 +48,7 @@ public class CourseController : ControllerBase
     [Route("get-cache-coursename")]
     public async Task<string> GetCachedUserName(string courseId)
     {
+        _logger.LogInformation("read cached course data from reddis Db ");
         var key = await _courseService.GetCacheCourseAsync(courseId);
         return key ?? "Course not found in cache.";
     }
@@ -54,7 +58,9 @@ public class CourseController : ControllerBase
     [Route("cache-courseName")]
     public async Task<string> CacheCourse(int courseId, string courseName)
     {
-        await _courseService.CacheCourseAsync(courseId,courseName);
+        _logger.LogInformation("cache course name in reddis");
+        TimeSpan cacheDuriaton = TimeSpan.FromMinutes(10);
+        await _courseService.CacheCourseAsync(courseId,courseName , cacheDuriaton);
         return "Cource Name Was Cache Successfully";
     }
 
@@ -73,62 +79,5 @@ public class CourseController : ControllerBase
 
 
 
-
-
-    //[HttpPost]
-    //[Route("University/Courses/UnitProto")]
-    //public async Task TestUnitProto()
-    //{
-    //    try
-    //    {
-    //        var channel = GrpcChannel.ForAddress("http://localhost:5002");
-    //        var client = new UnitSelectionGrp.UnitSelectionGrpClient(channel);
-
-    //        var request = new UnitRequests
-    //        {
-    //            Courseid = 1,
-    //            Teacherid = 1,
-    //            Userid = 1,
-    //        };
-
-    //        var response = await client.UnitSelectionAsync(request, default);
-
-    //    }
-    //    catch (Exception)
-    //    {
-
-    //        throw;
-    //    }
-
-    //}
-
-    //[HttpPost]
-    //[Route("University/Courses/UserProto")]
-
-    //public async Task TestUserProto()
-    //{
-    //    try
-    //    {
-    //        var channel = GrpcChannel.ForAddress("http://localhost:5008");
-    //        var client = new UsersGrpc.UsersGrpcClient(channel);
-
-    //        var requests = new UserRequests
-    //        {
-    //            Age = 1,
-    //            Firstname = "parsa",
-    //            Lastname = "hedayati",
-    //            Id = 1,
-    //            Username = "PWRSW82"
-    //        };
-
-    //        var response = await client.UsersAsync(requests, default);
-    //    }
-    //    catch (Exception)
-    //    {
-
-    //        throw;
-    //    }
-        
-    //}
 
 }

@@ -12,7 +12,8 @@ var app = Host.CreateDefaultBuilder()
                 listenOptions.Protocols = HttpProtocols.Http1AndHttp2;
             });
         });
-
+       
+        
         builder.UseStartup<Startup>();
     })
     .Build();

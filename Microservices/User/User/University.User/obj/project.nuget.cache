@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0EgeCXUxp0w=",
+  "dgSpecHash": "ea/L92NbJWo=",
   "success": true,
   "projectFilePath": "C:\\Users\\pa.hedayati\\Documents\\University Project\\Microservices\\User\\User\\University.User\\University.User.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,10 @@
     "C:\\Users\\pa.hedayati\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\pa.hedayati\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\pa.hedayati\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\pa.hedayati\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\pa.hedayati\\.nuget\\packages\\serilog.extensions.logging\\9.0.0\\serilog.extensions.logging.9.0.0.nupkg.sha512",
+    "C:\\Users\\pa.hedayati\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\pa.hedayati\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
     "C:\\Users\\pa.hedayati\\.nuget\\packages\\stackexchange.redis\\2.8.22\\stackexchange.redis.2.8.22.nupkg.sha512",
     "C:\\Users\\pa.hedayati\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\pa.hedayati\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

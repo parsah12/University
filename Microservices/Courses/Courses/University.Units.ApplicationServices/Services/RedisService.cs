@@ -20,7 +20,7 @@ public class RedisService : IRedisService
         return res.ToString();
     }
 
-    public async Task SetValueAsync(string key, string value)
+    public async Task SetValueAsync(string key, string value , TimeSpan? expiry = null)
     {
         var db = _redis.GetDatabase();
         await db.StringSetAsync(key, value);

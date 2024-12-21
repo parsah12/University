@@ -1,0 +1,172 @@
+2024-12-21 15:27:27.243 +03:30 [INF] User profile is available. Using 'C:\Users\pa.hedayati\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-21 15:27:27.596 +03:30 [WRN] Overriding address(es) 'http://localhost:4040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-12-21 15:27:27.610 +03:30 [WRN] HTTP/2 is not enabled for [::]:4040. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+2024-12-21 15:27:27.623 +03:30 [INF] Now listening on: http://[::]:4040
+2024-12-21 15:27:27.659 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-21 15:27:27.662 +03:30 [INF] Hosting environment: Development
+2024-12-21 15:27:27.664 +03:30 [INF] Content root path: C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units
+2024-12-21 15:27:28.752 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/index.html - null null
+2024-12-21 15:27:29.024 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/index.html - 200 null text/html;charset=utf-8 277.9866ms
+2024-12-21 15:27:29.335 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-21 15:27:29.335 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_vs/browserLink - null null
+2024-12-21 15:27:29.343 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 8.3355ms
+2024-12-21 15:27:29.555 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_vs/browserLink - 200 null text/javascript; charset=UTF-8 220.2941ms
+2024-12-21 15:27:29.941 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - null null
+2024-12-21 15:27:30.003 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 61.6473ms
+2024-12-21 15:27:39.227 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 52
+2024-12-21 15:27:39.232 +03:30 [INF] CORS policy execution successful.
+2024-12-21 15:27:39.264 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 401 null null 37.1989ms
+2024-12-21 15:28:20.628 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:28:20.635 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 401 null null 8.9685ms
+2024-12-21 15:31:04.621 +03:30 [INF] User profile is available. Using 'C:\Users\pa.hedayati\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-21 15:31:04.913 +03:30 [WRN] Overriding address(es) 'http://localhost:4040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-12-21 15:31:04.926 +03:30 [WRN] HTTP/2 is not enabled for [::]:4040. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+2024-12-21 15:31:04.944 +03:30 [INF] Now listening on: http://[::]:4040
+2024-12-21 15:31:05.002 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-21 15:31:05.005 +03:30 [INF] Hosting environment: Development
+2024-12-21 15:31:05.007 +03:30 [INF] Content root path: C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units
+2024-12-21 15:31:06.284 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/index.html - null null
+2024-12-21 15:31:06.459 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/index.html - 200 null text/html;charset=utf-8 180.476ms
+2024-12-21 15:31:06.496 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-21 15:31:06.503 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_vs/browserLink - null null
+2024-12-21 15:31:06.506 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 11.1405ms
+2024-12-21 15:31:06.546 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.0316ms
+2024-12-21 15:31:06.574 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - null null
+2024-12-21 15:31:06.629 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 55.0694ms
+2024-12-21 15:31:08.309 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:31:08.395 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:08.398 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:08.550 +03:30 [INF] Received HTTP response headers after 142.0989ms - 200
+2024-12-21 15:31:08.552 +03:30 [INF] End processing HTTP request after 163.2573ms - 200
+2024-12-21 15:31:08.627 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (StudentAdmin)
+2024-12-21 15:31:08.629 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 15:31:08.630 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 403 0 null 321.492ms
+2024-12-21 15:31:28.968 +03:30 [INF] User profile is available. Using 'C:\Users\pa.hedayati\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-21 15:31:29.281 +03:30 [WRN] Overriding address(es) 'http://localhost:4040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-12-21 15:31:29.293 +03:30 [WRN] HTTP/2 is not enabled for [::]:4040. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+2024-12-21 15:31:29.303 +03:30 [INF] Now listening on: http://[::]:4040
+2024-12-21 15:31:29.333 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-21 15:31:29.335 +03:30 [INF] Hosting environment: Development
+2024-12-21 15:31:29.337 +03:30 [INF] Content root path: C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units
+2024-12-21 15:31:30.177 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/index.html - null null
+2024-12-21 15:31:30.317 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/index.html - 200 null text/html;charset=utf-8 147.7804ms
+2024-12-21 15:31:30.342 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-21 15:31:30.343 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_vs/browserLink - null null
+2024-12-21 15:31:30.347 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 5.7733ms
+2024-12-21 15:31:30.377 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.8646ms
+2024-12-21 15:31:30.402 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - null null
+2024-12-21 15:31:30.459 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 57.0965ms
+2024-12-21 15:31:33.326 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:31:33.419 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:33.423 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:33.500 +03:30 [INF] Received HTTP response headers after 70.3283ms - 200
+2024-12-21 15:31:33.503 +03:30 [INF] End processing HTTP request after 87.6594ms - 200
+2024-12-21 15:31:33.569 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (StudentAdmin)
+2024-12-21 15:31:33.572 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 15:31:33.574 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 403 0 null 248.1198ms
+2024-12-21 15:31:43.687 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:31:43.693 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:43.697 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:43.746 +03:30 [INF] Received HTTP response headers after 46.2973ms - 200
+2024-12-21 15:31:43.749 +03:30 [INF] End processing HTTP request after 57.0343ms - 200
+2024-12-21 15:31:43.753 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (StudentAdmin)
+2024-12-21 15:31:43.755 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 15:31:43.756 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 403 0 null 69.4306ms
+2024-12-21 15:31:54.591 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:31:54.595 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:54.598 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:31:54.625 +03:30 [INF] Received HTTP response headers after 24.9015ms - 200
+2024-12-21 15:31:54.628 +03:30 [INF] End processing HTTP request after 32.8971ms - 200
+2024-12-21 15:31:54.630 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (StudentAdmin)
+2024-12-21 15:31:54.631 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 15:31:54.632 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 403 0 null 41.3828ms
+2024-12-21 15:32:15.173 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:32:15.185 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:32:15.188 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:32:15.232 +03:30 [INF] Received HTTP response headers after 35.4746ms - 200
+2024-12-21 15:32:15.233 +03:30 [INF] End processing HTTP request after 49.0264ms - 200
+2024-12-21 15:32:15.235 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (StudentAdmin)
+2024-12-21 15:32:15.235 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 15:32:15.236 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 403 0 null 64.9615ms
+2024-12-21 15:32:39.875 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:32:39.886 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:32:39.888 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:32:39.916 +03:30 [INF] Received HTTP response headers after 24.5891ms - 200
+2024-12-21 15:32:39.924 +03:30 [INF] End processing HTTP request after 36.9934ms - 200
+2024-12-21 15:32:39.926 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (StudentAdmin)
+2024-12-21 15:32:39.927 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 15:32:39.928 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 403 0 null 52.866ms
+2024-12-21 15:33:01.191 +03:30 [INF] User profile is available. Using 'C:\Users\pa.hedayati\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-21 15:33:01.451 +03:30 [WRN] Overriding address(es) 'http://localhost:4040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-12-21 15:33:01.463 +03:30 [WRN] HTTP/2 is not enabled for [::]:4040. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+2024-12-21 15:33:01.474 +03:30 [INF] Now listening on: http://[::]:4040
+2024-12-21 15:33:01.503 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-21 15:33:01.505 +03:30 [INF] Hosting environment: Development
+2024-12-21 15:33:01.507 +03:30 [INF] Content root path: C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units
+2024-12-21 15:33:02.230 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/index.html - null null
+2024-12-21 15:33:02.383 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/index.html - 200 null text/html;charset=utf-8 162.6063ms
+2024-12-21 15:33:02.414 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_vs/browserLink - null null
+2024-12-21 15:33:02.414 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-21 15:33:02.420 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 6.357ms
+2024-12-21 15:33:02.440 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.1279ms
+2024-12-21 15:33:02.466 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - null null
+2024-12-21 15:33:02.529 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 63.0357ms
+2024-12-21 15:33:05.686 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:33:05.774 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:33:05.777 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:33:05.851 +03:30 [INF] Received HTTP response headers after 64.8203ms - 200
+2024-12-21 15:33:05.854 +03:30 [INF] End processing HTTP request after 84.7309ms - 200
+2024-12-21 15:33:05.920 +03:30 [INF] Executing endpoint 'University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units)'
+2024-12-21 15:33:05.933 +03:30 [INF] Route matched with {action = "UnitSelection", controller = "UnitSelection"}. Executing controller action with signature Void UnitSelection(Application.Requests.UnitSelectionRequest) on controller University.Units.Controllers.UnitSelectionController (University.Units).
+2024-12-21 15:33:06.089 +03:30 [INF] Executing action method University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units) - Validation state: "Valid"
+2024-12-21 15:33:06.093 +03:30 [INF] users choose Units Selection
+2024-12-21 15:33:06.793 +03:30 [INF] Executed DbCommand (26ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [dbo].[UnitSelection] ([CourseId], [TeacherId], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2);
+2024-12-21 15:33:06.818 +03:30 [INF] Executed action method University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 724.6442ms.
+2024-12-21 15:33:06.823 +03:30 [INF] Executed action University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units) in 886.8648ms
+2024-12-21 15:33:06.825 +03:30 [INF] Executed endpoint 'University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units)'
+2024-12-21 15:33:06.831 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 200 0 null 1144.6199ms
+2024-12-21 15:34:14.557 +03:30 [INF] User profile is available. Using 'C:\Users\pa.hedayati\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-21 15:34:14.881 +03:30 [WRN] Overriding address(es) 'http://localhost:4040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-12-21 15:34:14.898 +03:30 [WRN] HTTP/2 is not enabled for [::]:4040. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+2024-12-21 15:34:14.917 +03:30 [INF] Now listening on: http://[::]:4040
+2024-12-21 15:34:14.956 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-21 15:34:14.959 +03:30 [INF] Hosting environment: Development
+2024-12-21 15:34:14.962 +03:30 [INF] Content root path: C:\Users\pa.hedayati\Documents\University Project\Microservices\UnitSelection\Units\University.Units
+2024-12-21 15:34:15.998 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/index.html - null null
+2024-12-21 15:34:16.146 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/index.html - 200 null text/html;charset=utf-8 153.9109ms
+2024-12-21 15:34:16.169 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_vs/browserLink - null null
+2024-12-21 15:34:16.169 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-21 15:34:16.176 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 7.2658ms
+2024-12-21 15:34:16.200 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.0113ms
+2024-12-21 15:34:16.227 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - null null
+2024-12-21 15:34:16.281 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:4040/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 54.1596ms
+2024-12-21 15:35:01.612 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - application/json 57
+2024-12-21 15:35:01.739 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:35:01.742 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 15:35:01.831 +03:30 [INF] Received HTTP response headers after 79.2755ms - 200
+2024-12-21 15:35:01.834 +03:30 [INF] End processing HTTP request after 103.4028ms - 200
+2024-12-21 15:35:01.946 +03:30 [INF] Executing endpoint 'University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units)'
+2024-12-21 15:35:01.966 +03:30 [INF] Route matched with {action = "UnitSelection", controller = "UnitSelection"}. Executing controller action with signature Void UnitSelection(Application.Requests.UnitSelectionRequest) on controller University.Units.Controllers.UnitSelectionController (University.Units).
+2024-12-21 15:35:02.186 +03:30 [INF] Executing action method University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units) - Validation state: "Valid"
+2024-12-21 15:35:02.190 +03:30 [INF] users choose Units Selection
+2024-12-21 15:35:03.324 +03:30 [INF] Executed DbCommand (34ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [dbo].[UnitSelection] ([CourseId], [TeacherId], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2);
+2024-12-21 15:35:03.370 +03:30 [INF] Executed action method University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 1178.0717ms.
+2024-12-21 15:35:03.377 +03:30 [INF] Executed action University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units) in 1405.0893ms
+2024-12-21 15:35:03.378 +03:30 [INF] Executed endpoint 'University.Units.Controllers.UnitSelectionController.UnitSelection (University.Units)'
+2024-12-21 15:35:03.388 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:4040/University/UnitSelection/ChooseUnitSelection - 200 0 null 1775.6659ms

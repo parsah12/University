@@ -1,63 +1,6 @@
 [
   {
     "ContainingType": "University.Units.Controllers.UnitSelectionController",
-    "Method": "CacheUnits",
-    "RelativePath": "cache-units",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "unitId",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "unitName",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "University.Units.Controllers.UnitSelectionController",
-    "Method": "Getcacheunits",
-    "RelativePath": "get-cache-units",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "userId",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "University.Units.Controllers.UnitSelectionController",
     "Method": "UnitSelection",
     "RelativePath": "University/UnitSelection/ChooseUnitSelection",
     "HttpMethod": "POST",

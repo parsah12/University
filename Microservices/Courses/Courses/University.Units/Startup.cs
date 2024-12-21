@@ -9,6 +9,7 @@ using University.Course.Model.IRepository;
 using University.Course;
 using University.User.Grpc;
 using StackExchange.Redis;
+using Serilog;
 
 public class Startup
 {
@@ -40,6 +41,19 @@ public class Startup
                 policy.AllowAnyOrigin();
                 policy.AllowAnyMethod();
             }));
+        services.AddLogging(builder =>
+        {
+            Log.Logger = new LoggerConfiguration()
+                .WriteTo.Console()
+                .WriteTo.File("Logs/myapp-.txt", rollingInterval: RollingInterval.Day)  // Log to file with daily rotation
+                .CreateLogger();
+
+            builder.AddSerilog();
+        });
+        services.AddAuthorization(options =>
+        {
+            options.AddPolicy("Admin", policy => policy.RequireRole("Admin"));
+        });
 
         services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(options =>

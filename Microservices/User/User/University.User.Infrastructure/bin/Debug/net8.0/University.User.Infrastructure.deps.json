@@ -715,6 +715,7 @@
       "University.User.Application/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Logging": "9.0.0",
           "Newtonsoft.Json": "13.0.3",
           "StackExchange.Redis": "2.8.22"
         },
@@ -728,6 +729,7 @@
       "University.User.Model/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Logging": "9.0.0",
           "Newtonsoft.Json": "13.0.3",
           "StackExchange.Redis": "2.8.22"
         },

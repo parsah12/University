@@ -1,0 +1,45 @@
+2024-12-21 14:43:03.771 +03:30 [INF] User profile is available. Using 'C:\Users\pa.hedayati\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-21 14:43:04.200 +03:30 [WRN] Overriding address(es) 'http://localhost:5050'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-12-21 14:43:04.214 +03:30 [WRN] HTTP/2 is not enabled for [::]:5050. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+2024-12-21 14:43:04.229 +03:30 [INF] Now listening on: http://[::]:5050
+2024-12-21 14:43:04.264 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-21 14:43:04.266 +03:30 [INF] Hosting environment: Development
+2024-12-21 14:43:04.269 +03:30 [INF] Content root path: C:\Users\pa.hedayati\Documents\University Project\Microservices\Courses\Courses\University.Units
+2024-12-21 14:43:05.114 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/swagger/index.html - null null
+2024-12-21 14:43:05.391 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/swagger/index.html - 200 null text/html;charset=utf-8 285.202ms
+2024-12-21 14:43:05.411 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-21 14:43:05.412 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/swagger/index.js - null null
+2024-12-21 14:43:05.429 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 17.9175ms
+2024-12-21 14:43:05.430 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/swagger/index.js - 200 null application/javascript;charset=utf-8 17.9858ms
+2024-12-21 14:43:05.466 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/_vs/browserLink - null null
+2024-12-21 14:43:05.540 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/_vs/browserLink - 200 null text/javascript; charset=UTF-8 73.6761ms
+2024-12-21 14:43:05.656 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/swagger/v1/swagger.json - null null
+2024-12-21 14:43:05.731 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 74.6957ms
+2024-12-21 14:43:08.885 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/University/Courses/GetAllCourse - null null
+2024-12-21 14:43:08.924 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/University/Courses/GetAllCourse - 401 null null 38.7249ms
+2024-12-21 14:43:35.194 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/University/Courses/GetAllCourse - null null
+2024-12-21 14:43:35.326 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 14:43:35.330 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 14:43:35.458 +03:30 [INF] Received HTTP response headers after 116.7307ms - 200
+2024-12-21 14:43:35.461 +03:30 [INF] End processing HTTP request after 145.8514ms - 200
+2024-12-21 14:43:35.592 +03:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2024-12-21 14:43:35.595 +03:30 [INF] AuthenticationScheme: Bearer was forbidden.
+2024-12-21 14:43:35.597 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/University/Courses/GetAllCourse - 403 0 null 406.3495ms
+2024-12-21 14:43:52.400 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5050/University/Courses/GetAllCourse - null null
+2024-12-21 14:43:52.408 +03:30 [INF] Start processing HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 14:43:52.423 +03:30 [INF] Sending HTTP request POST http://localhost:5008/TokenServiceAutoraizeGrpc/Login
+2024-12-21 14:43:52.468 +03:30 [INF] Received HTTP response headers after 40.6869ms - 200
+2024-12-21 14:43:52.471 +03:30 [INF] End processing HTTP request after 63.6881ms - 200
+2024-12-21 14:43:52.480 +03:30 [INF] Executing endpoint 'University.Course.Controllers.CourseController.GetAllCourses (University.Course)'
+2024-12-21 14:43:52.492 +03:30 [INF] Route matched with {action = "GetAllCourses", controller = "Course"}. Executing controller action with signature System.Collections.Generic.List`1[University.Course.Application.Dto.CourseDto] GetAllCourses() on controller University.Course.Controllers.CourseController (University.Course).
+2024-12-21 14:43:52.866 +03:30 [INF] Executing action method University.Course.Controllers.CourseController.GetAllCourses (University.Course) - Validation state: "Valid"
+2024-12-21 14:43:54.827 +03:30 [INF] Reading All Courses information
+2024-12-21 14:43:56.063 +03:30 [INF] Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Capacity], [c].[CourseName]
+FROM [dbo].[Course] AS [c]
+2024-12-21 14:43:56.133 +03:30 [INF] Executed action method University.Course.Controllers.CourseController.GetAllCourses (University.Course), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3261.1278ms.
+2024-12-21 14:43:56.140 +03:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[University.Course.Application.Dto.CourseDto, University.Course.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-21 14:43:56.149 +03:30 [INF] Executed action University.Course.Controllers.CourseController.GetAllCourses (University.Course) in 3652.2856ms
+2024-12-21 14:43:56.151 +03:30 [INF] Executed endpoint 'University.Course.Controllers.CourseController.GetAllCourses (University.Course)'
+2024-12-21 14:43:56.160 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5050/University/Courses/GetAllCourse - 200 null application/json; charset=utf-8 3759.2228ms

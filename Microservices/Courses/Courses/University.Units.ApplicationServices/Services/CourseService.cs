@@ -52,10 +52,17 @@ public class CourseService : ICourseService
         return _courseRepository.AddCourse(entity);
     }
 
-    public async Task CacheCourseAsync(int courseId, string courseName)
+    public async Task CacheCourseAsync(int courseId, string courseName ,TimeSpan cacheDuration)
     {
-        string key = $"course:{courseId}:name";
-        await _redisService.SetValueAsync(key, courseName);
+        var courses = GetAllCourses();
+
+        foreach (var course in courses)
+        {
+            string key = $"course:{course.Id}:name";
+            var value = course.CourseName;
+            await _redisService.SetValueAsync(key, value ,cacheDuration);
+        }
+        
     }
 
     public async Task<string> GetCacheCourseAsync(string courseId)
